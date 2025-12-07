@@ -1,2 +1,1 @@
-# ono-tebe-nado-ad-main
-Яндекс практикум
+https://github.com/Ko3bIrb/ono-tebe-nado-ad
